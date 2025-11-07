@@ -1,2 +1,3 @@
-# ACIT4640-Labwk10
-Lab for ACIT4640
+# 4640-w10-lab-start-w25
+
+See lab instructions on D2L
